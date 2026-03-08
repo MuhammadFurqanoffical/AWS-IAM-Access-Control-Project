@@ -129,9 +129,9 @@ These techniques are commonly used in real cloud environments to protect product
 
 ## Project Documentation
 
-Detailed documentation is available in the project report:
+A detailed step-by-step report including screenshots, IAM policy explanation, and testing results can be found here:
 
-`Cloud Security with AWS IAM.pdf`
+[View Full Project Report (PDF)](Cloud Security with AWS IAM.pdf)
 
 ---
 
