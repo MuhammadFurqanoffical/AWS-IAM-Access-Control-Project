@@ -118,7 +118,7 @@ These techniques are commonly used in real cloud environments to protect product
 ![IAM Policy](screenshots/iam-policy.png)
 
 ### EC2 Instance and Tags
-![Prod Instance](screenshots/prod-instance.png)
+### Production Instance
 ![EC2 Tags](screenshots/ec2-tags-p.png)
 ### Development Instance
 ![EC2 Tags](screenshots/ec2-tags-d.png)
@@ -131,7 +131,7 @@ These techniques are commonly used in real cloud environments to protect product
 
 Detailed documentation is available in the project report:
 
-`project-report.pdf`
+`Cloud Security with AWS IAM.pdf`
 
 ---
 
