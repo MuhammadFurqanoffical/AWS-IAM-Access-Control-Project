@@ -131,7 +131,8 @@ These techniques are commonly used in real cloud environments to protect product
 
 A detailed step-by-step report including screenshots, IAM policy explanation, and testing results can be found here:
 
-[View Full Project Report (PDF)](Cloud Security with AWS IAM.pdf)
+'Cloud Security with AWS IAM.pdf'
+
 ---
 
 ## Key Learnings
@@ -149,4 +150,5 @@ Through this project I learned:
 
 Muhammad Furqan  
 Cybersecurity | Cloud Security | ISO 27001 & SOC 2
+
 
